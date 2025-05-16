@@ -1,0 +1,28 @@
+{
+  "name": "impulsosena",
+  "version": "1.0.0",
+  "description": "**ImpulsoSENA** es una plataforma web desarrollada para ayudar a los aprendices del SENA a gestionar y organizar sus postulaciones a empleos, con el objetivo de facilitar su ingreso al mundo laboral formal. Es una herramienta pensada como legado para quienes sueñan con su primer empleo en la industria tecnológica o productiva.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santigg23/ImpulsoSENA.git"
+  },
+  "author": "Santiago Galvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santigg23/ImpulsoSENA/issues"
+  },
+  "homepage": "https://github.com/santigg23/ImpulsoSENA#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.3",
+    "@types/express": "^5.0.1",
+    "typescript": "^5.8.3"
+  }
+}
